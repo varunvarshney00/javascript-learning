@@ -169,11 +169,11 @@
 
 // const nums = [1, 2, 3, 4];
 
-// const red = nums.reduce((accumulator, current, index, )=>{
+// const accumulated = nums.reduce((accumulator, current, index, )=>{
     // console.log('acc', accumulator, current);
     // console.log('accumulator', accumulator)
     // debugger
 //     return accumulator  + current
 // }, 10)
 
-// console.log(red)
+// console.log(accumulated)
